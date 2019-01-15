@@ -1,0 +1,98 @@
+[
+    {
+        "question": "Berada pada tahap manakah saat ibu menerima peran dan mencoba menyesuaikan diri terhadap perubahan terhadap peran yang terjadi selama kehamilan?",
+        "choice1": "Antisipasi",
+        "choice2": "Honeymoon",
+        "choice3": "Stabil",
+        "choice4": "Perjanjian",
+        "answer": "Honeymoon"
+    },
+    {
+        "question": "Ibu dapat melihat penampilan dalam peran termasuk dalam tahap...",
+        "choice1": "Antisipasi",
+        "choice2": "Honeymoon",
+        "choice3": "Stabil",
+        "choice4": "Perjanjian",
+        "answer": "Stabil"
+    },
+    {
+        "question": "Perubahan psikologis ibu hamil trimester I adalah...",
+        "choice1": "Menuntut perhatian dan cinta",
+        "choice2": "Setiap perubahan yang terjadi akan selalu menjadi pusat perhatian",
+        "choice3": "Menerima kehamilannya",
+        "choice4": "Libido meningkat",
+        "answer": "Setiap perubahan yang terjadi akan selalu menjadi pusat perhatian"
+    },
+    {
+        "question": "Perubahan psikologis ibu hamil trimester II adalah...",
+        "choice1": "Menuntut perhatian dan cinta",
+        "choice2": "Setiap perubahan yang terjadi akan selalu menjadi pusat perhatian",
+        "choice3": "Libido menurun",
+        "choice4": "Merasa kehilangan perhatian",
+        "answer": "Menuntut perhatian dan cinta"
+    },
+    {
+        "question": "Perubahan psikologis ibu hamil trimester III adalah...",
+        "choice1": "Libido meningkat",
+        "choice2": "Merasa sedih karena akan kehilangan bayinya",
+        "choice3": "Menerima kehamilannya",
+        "choice4": "Menuntut perhatian dan cinta",
+        "answer": "Merasa sedih karena akan kehilangan bayinya"
+    },
+    {
+        "question": "Perubahan psikologis ayah pada kehamilan trimester I adalah...",
+        "choice1": "Sering bingung terhadap perubahan istrinya",
+        "choice2": "Merasa nyaman dengan melihat anaknya di USG",
+        "choice3": "Persiapan yang nyata",
+        "choice4": "Khawatir tentang pembagian peran",
+        "answer": "Sering bingung terhadap perubahan istrinya"
+    },
+    {
+        "question": "Perubahan psikologis ayah pada kehamilan trimester II adalah...",
+        "choice1": "Memberitahu keluarga dan teman",
+        "choice2": "Merasa nyaman dengan melihat anaknya di USG",
+        "choice3": "Persiapan yang nyata",
+        "choice4": "Timbul rasa takut",
+        "answer": "Merasa nyaman dengan melihat anaknya di USG"
+    },
+    {
+        "question": "Denyut jantung janin merupakan tanda ... kehamilan.",
+        "choice1": "Pasti",
+        "choice2": "Tidak pasti",
+        "choice3": "Dugaan hamil",
+        "choice4": "Diagnosis banding",
+        "answer": "Pasti"
+    },
+    {
+        "question": "Jawaban di bawah ini yang termasuk tanda pasti hamil adalah...",
+        "choice1": "Rahim membesar",
+        "choice2": "Tanda hegar",
+        "choice3": "DJJ",
+        "choice4": "Tanda chadwick",
+        "answer": "DJJ"
+    },
+    {
+        "question": "Braxton Hicks merupakan tanda ... kehamilan.",
+        "choice1": "Pasti",
+        "choice2": "Tidak pasti",
+        "choice3": "Dugaan hamil",
+        "choice4": "Diagnosis banding",
+        "answer": "Dugaan hamil"
+    },
+    {
+        "question": "Tes HCG positif merupakan tanda ... kehamilan",
+        "choice1": "Pasti",
+        "choice2": "Tidak pasti",
+        "choice3": "Dugaan hamil",
+        "choice4": "Diagnosis banding",
+        "answer": "Dugaan hamil"
+    },
+    {
+        "question": "Jika kita menyatakan janin dalam keadaan lintang, berarti hal tersebut adalah...",
+        "choice1": "Sinus atau letak",
+        "choice2": "Habitus atau sikap",
+        "choice3": "Posisi",
+        "choice4": "Presentasi",
+        "answer": "Sinus atau letak"
+    }
+]

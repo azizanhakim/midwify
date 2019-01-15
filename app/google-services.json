@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "621899868221",
+    "firebase_url": "https://chatbot-kebidanan.firebaseio.com",
+    "project_id": "chatbot-kebidanan",
+    "storage_bucket": "chatbot-kebidanan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621899868221:android:bd5894ecf905892e",
+        "android_client_info": {
+          "package_name": "com.azizanhakim.midwife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621899868221-a4phue8k2brl8ls1mcbrmvc074f05ilm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh5VbxdiZ1iBN81GpzRFG1eUtcML_Bj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

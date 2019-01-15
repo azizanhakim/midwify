@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/midwifychat"
+        android:title="Midwify Chat"
+        />
+    <item
+        android:id="@+id/midwifyvoice"
+        android:title="Midwify Voice"
+        />
+    <item
+        android:id="@+id/midwifyquiz"
+        android:title="Midwify Quiz"
+        />
+
+
+</menu>
